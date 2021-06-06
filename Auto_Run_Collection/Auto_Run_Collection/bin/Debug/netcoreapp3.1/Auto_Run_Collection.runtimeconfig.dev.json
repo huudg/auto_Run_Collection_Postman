@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\diepg\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\diepg\\.nuget\\packages"
+    ]
+  }
+}
